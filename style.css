@@ -1,0 +1,32 @@
+#myCanvas{
+width: 300px; ;
+height: 300px; ;
+border:3px solid blue ;
+}
+img {
+    width: 250px; height: auto;;
+
+}
+.meitenes{
+    width: 300px; ;
+    height: 300px; ;
+    display: inline-block; 
+    
+}
+.smarzas{
+    width: 201px; height: auto;
+    height: 50px;
+}
+.kermenim{
+    width: 201px; height: auto;
+    height: 50px;  
+}
+.sovs{
+    background-color: rgb(255, 0, 157);
+    border: 2px solid black; 
+    display: flex;
+
+}
+.viens{
+
+}
